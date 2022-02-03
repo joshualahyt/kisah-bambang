@@ -8,11 +8,17 @@ namespace ym
         {
             Console.BackgroundColor = ConsoleColor.Green;
 
-            Console.Title="iya";
+            Console.Title="tidur";
 
             Console.WriteLine("tidur press any key to continue");
 
             Console.ReadKey();
+
+            Console.WriteLine("siapa nama kamu?"); 
+
+            string naMe = Console.ReadLine();
+
+            Console.WriteLine("ayo " + naMe + " buat cerita");
 
             Console.WriteLine("suatu hari yang");
 
