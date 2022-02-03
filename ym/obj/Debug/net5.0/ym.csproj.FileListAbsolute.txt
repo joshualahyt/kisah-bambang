@@ -1,0 +1,16 @@
+C:\Users\indra\OneDrive\Desktop\ym\bin\Debug\net5.0\ym.exe
+C:\Users\indra\OneDrive\Desktop\ym\bin\Debug\net5.0\ym.deps.json
+C:\Users\indra\OneDrive\Desktop\ym\bin\Debug\net5.0\ym.runtimeconfig.json
+C:\Users\indra\OneDrive\Desktop\ym\bin\Debug\net5.0\ym.runtimeconfig.dev.json
+C:\Users\indra\OneDrive\Desktop\ym\bin\Debug\net5.0\ym.dll
+C:\Users\indra\OneDrive\Desktop\ym\bin\Debug\net5.0\ref\ym.dll
+C:\Users\indra\OneDrive\Desktop\ym\bin\Debug\net5.0\ym.pdb
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.csproj.AssemblyReference.cache
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.AssemblyInfoInputs.cache
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.AssemblyInfo.cs
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.csproj.CoreCompileInputs.cache
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.dll
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ref\ym.dll
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.pdb
+C:\Users\indra\OneDrive\Desktop\ym\obj\Debug\net5.0\ym.genruntimeconfig.cache
